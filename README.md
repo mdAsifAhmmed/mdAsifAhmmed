@@ -1,17 +1,9 @@
-### Hi there  👋
+## Hey, Welcome to my GitHub Profile
 
-## Welcome to my GitHub Profile
+### *Full-stack Web & Mobile app developer | Co-founder of QuadCoder  | UI/UX Designer*
 
-**mdAsifAhmmed/mdAsifAhmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on something cool😎
-- 🌱 I’m currently learning node.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on **something cool😎**
+- 🌱 I’m currently learning **something unique**
+- 👨‍💻 All of my projects are available at **my portfolio https://md-asif-ahmed.vercel.app/**
+- 💬 Ask me about **React, JavaScript, Node JS, React native**
+- 📫 How to contact me  **mdasifahmmedofficial@gmail.com**
